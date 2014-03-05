@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (0.9.0)
+      multipart-post (>= 1.2, < 3)
+    hyperresource (0.2.2)
+      faraday (>= 0.8.6)
+      json
+      uri_template (>= 0.5.2)
+    json (1.8.1)
+    mini_portile (0.5.2)
+    multi_json (1.8.4)
+    multipart-post (2.0.0)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
+    representable (1.7.6)
+      multi_json
+      nokogiri
+    roar (0.12.2)
+      representable (>= 1.6.0)
+    uri_template (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hyperresource
+  roar
