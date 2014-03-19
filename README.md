@@ -1,5 +1,5 @@
 # GTD Todo API Ruby client
-[Blog post]() companion API client 
+[Blog post](http://blog.apiary.io/2014/03/06/Surfing-API/) companion API client 
 
 Client written in Ruby using excellent [HyperResource](https://github.com/gamache/hyperresource) library. Read [its paper](http://petegamache.com/wsrest2014-gamache.pdf)!
 
